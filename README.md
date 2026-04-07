@@ -17,14 +17,14 @@ Multiple departments collaborate to ensure timely procurement, cost optimization
 
 ## Master Data Snapshot
 
-| Field              | Project A           | Project B            |
-|--------------------|--------------------|----------------------|
-| Material           | Steel Rod          | Motor                |
-| Quantity           | 100 Kg             | 2 Units              |
-| Required Date      | 05-Apr-2026        | 06-Apr-2026          |
-| Priority           | High               | Medium               |
-| Storage Location   | Warehouse A        | Maintenance Store    |
-| Cost Center        | CC-101             | CC-202               |
+| Field                      | Project A                       | Project B                                  |
+|--------------------------  |---------------------------------|--------------------------------------------|
+| Material                   | Steel Rod                       | Motor                                      |
+| Quantity                   | 100 Kg                          | 2 Units                                    |
+| Required Date              | 05-Apr-2026                     | 06-Apr-2026                                |
+| Priority                   | High                            | Medium                                     |
+| Storage Location           | Warehouse A                     | Maintenance Store                          |
+| Cost Center                | CC-101                          | CC-202                                     |
 
 ======================================================================
 
